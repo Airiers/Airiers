@@ -1,6 +1,6 @@
-## Hello there 👋
+## About me
 
-I'm Airiers, a **Fullstack** and **Software** developper
+I'm **Airiers**, a **Fullstack** and **Software** developer
 
 ## My Skills
 
@@ -15,11 +15,12 @@ I'm Airiers, a **Fullstack** and **Software** developper
 
 ## My projects
 
-[Airiers.github.io](https://airiers.github.io)
+**My web experiments space**  
+[🔗 Airiers.github.io](https://airiers.github.io)
 
 ## What am I doing ?
 
-I’m currently learning LUA
+I’m currently learning Lua
 
 ## Contact
 
