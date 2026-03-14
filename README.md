@@ -21,7 +21,7 @@ I'm **Airiers**, a **Fullstack** and **Software** developer
 
 ## What am I doing ?
 
-I’m currently learning Lua
+I’m currently learning Golang
 
 ## Contact
 
